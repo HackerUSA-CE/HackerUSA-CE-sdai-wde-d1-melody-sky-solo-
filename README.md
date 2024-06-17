@@ -22,6 +22,7 @@ In this solo lab, you will create detailed album cards for Melody Sky's website.
 4. [ ] Inside the section, choose the correct header tag and use the copy `Tour Schedule`.
 5. [ ] Make a table element with two rows called `Date` and `Location`.
 6. [ ] Create three rows with table data tags inside each for the following:
+   
    Row 1 - `March 10, 2024`, `Seattle, WA`
    
    Row 2 - `March 15, 2024`, `Nashville, TN`
