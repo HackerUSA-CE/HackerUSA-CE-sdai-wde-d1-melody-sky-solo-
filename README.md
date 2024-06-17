@@ -23,7 +23,9 @@ In this solo lab, you will create detailed album cards for Melody Sky's website.
 5. [ ] Make a table element with two rows called `Date` and `Location`.
 6. [ ] Create three rows with table data tags inside each for the following:
    Row 1 - `March 10, 2024`, `Seattle, WA`
+   
    Row 2 - `March 15, 2024`, `Nashville, TN`
+   
    Row 3 - `March 20, 2024`, `Atlanta, GA`
 
 🎊 **Fantastic! You've created detailed album cards and added a tour schedule for Melody Sky's website.** 🎊
