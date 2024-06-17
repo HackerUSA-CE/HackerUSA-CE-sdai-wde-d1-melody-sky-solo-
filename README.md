@@ -31,6 +31,9 @@ In this solo lab, you will create detailed album cards for Melody Sky's website.
 
 🎊 **Fantastic! You've created detailed album cards and added a tour schedule for Melody Sky's website.** 🎊
 
+### Solution codebase 👀
+🛑 **Only use this as a reference** 🛑
+
 💾 **Not something to copy and paste** 💾
 
 **Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-wde-d2-melody-sky-solo/blob/solution/index.html) (link not shown).
